@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Actualmente me encuentro finalizando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma, realizando las prácticas FCT en Soltel. A lo largo de mi formación y experiencia, he desarrollado un fuerte interés por el desarrollo de software, tanto en entornos móviles como web, combinando buenas prácticas de programación con el uso de herramientas modernas para crear soluciones funcionales y bien estructuradas.<br/><br/>
+Actualmente me encuentro finalizando un curso de especialización de Desarrollo de Videojuegos y Realidad Virtual, trabajando como desarrollador web en Soltel Group. A lo largo de mi formación y experiencia, he desarrollado un fuerte interés por el desarrollo de software, tanto en entornos móviles como web, combinando buenas prácticas de programación con el uso de herramientas modernas para crear soluciones funcionales y bien estructuradas.<br/><br/>
 
 Mi perfil se orienta al desarrollo fullstack, tanto frontend como backend, con experiencia en tecnologías modernas como React, Angular, Spring y Node.js, además de trabajar con bases de datos relacionales y no relacionales.<br/><br/>
 
